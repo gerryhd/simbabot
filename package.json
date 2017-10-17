@@ -1,0 +1,19 @@
+{
+  "name": "simbabot",
+  "version": "1.0.0",
+  "description": "Chatbot for a discord server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerryhd/simbabot.git"
+  },
+  "author": "Gerry Hernandez",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gerryhd/simbabot/issues"
+  },
+  "homepage": "https://github.com/gerryhd/simbabot#readme"
+}
